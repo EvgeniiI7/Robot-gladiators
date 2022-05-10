@@ -1,4 +1,4 @@
-# robot-gladiators
+# Robot-gladiators
 
 ## MODULE 3 GAME LOGIC
 ​
